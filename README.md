@@ -1,18 +1,22 @@
-# TODO App with Flutter
+# Delivery App with Flutter
 
-A simple TODO app built using Flutter that helps you manage your tasks efficiently.
+A simple Delivery app built using Flutter that helps you manage your tasks efficiently.
 
 ## Screens
 
-- Login Screen
+- Splash Screen.
 - Onboard Screens.
+- Login Screen
+
 - Orders Screen.
 
 ## Screenshots
 
-<img src="1.png" alt="Light Theme homepage" width="400">
-<img src="2.png" alt="Dark Theme homepage" width="400">
-<img src="3.png" alt="Add Task Page" width="400">
+<img src="app_gallery/Screenshot_1713808007.png" alt="Splash Screen" width="400">
+<img src="app_gallery/Screenshot_1713809611.png" alt="Onboard Screen 1" width="400">
+<img src="app_gallery/Screenshot_1713809614.png" alt="Onboard Screen 1" width="400">
+<img src="app_gallery/Screenshot_1713809616.png" alt="Onboard Screen 1" width="400">
+<img src="app_gallery/Screenshot_1713809777.png" alt="Orders Screen" width="400">
 
 ## Getting Started
 
@@ -28,13 +32,13 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app-flutter.git
+   git clone https://github.com/MohamedAymanMohamedIbrahimEl-Adawy/delivery_app_public.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd todo-app-flutter
+   cd delivery_app_public
    ```
 
 3. Install the dependencies:
