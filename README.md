@@ -4,19 +4,21 @@ A simple Delivery app built using Flutter that helps you manage your tasks effic
 
 ## Screens
 
-- Splash Screen.
+- Native Splash Screen
+- Flutter Splash Screen
 - Onboard Screens.
 - Login Screen
-
 - Orders Screen.
 
 ## Screenshots
 
-<img src="app_gallery/Screenshot_1713808007.png" alt="Splash Screen" width="400">
-<img src="app_gallery/Screenshot_1713809611.png" alt="Onboard Screen 1" width="400">
-<img src="app_gallery/Screenshot_1713809614.png" alt="Onboard Screen 1" width="400">
-<img src="app_gallery/Screenshot_1713809616.png" alt="Onboard Screen 1" width="400">
-<img src="app_gallery/Screenshot_1713809777.png" alt="Orders Screen" width="400">
+<img src="app_gallery/splash_native.png" alt="Native Splash Screen" width="400">
+<img src="app_gallery/splash_flutter.png" alt="Flutter Splash Screen" width="400">
+<img src="app_gallery/onboard_1.png" alt="Onboard Screen 1" width="400">
+<img src="app_gallery/onboard_2.png" alt="Onboard Screen 2" width="400">
+<img src="app_gallery/onboard_3.png" alt="Onboard Screen 3" width="400">
+<img src="app_gallery/orders_1.png" alt="Orders 1 Screen" width="400">
+<img src="app_gallery/orders_2.png" alt="Orders 2 Screen" width="400">
 
 ## Getting Started
 
@@ -85,5 +87,14 @@ The app uses the following packages:
 - `another_flushbar: ^1.12.30`
 - `path_provider: ^2.1.3`
 - `carousel_slider: ^4.2.1`
+
+
+## Dev Dependencies
+
+The app uses the following packages:
+
+- `flutter_lints: ^3.0.0`
+- `flutter_launcher_icons: ^0.12.0`
+- `flutter_native_splash: ^2.4.0`
 
 Make sure to add these dependencies to your `pubspec.yaml` file before running the app.
